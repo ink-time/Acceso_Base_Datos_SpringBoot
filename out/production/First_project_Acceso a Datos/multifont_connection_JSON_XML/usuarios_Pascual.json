@@ -1,0 +1,142 @@
+[
+  {
+    "nombre": "Laura",
+    "apellido": "Pérez",
+    "dni": "12345678A",
+    "telefonos": ["600123456", "622334455"],
+    "correos": ["laura.perez@example.com"]
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Ruiz",
+    "dni": "23456789B",
+    "telefonos": ["611223344"],
+    "correos": ["carlos.ruiz@example.com", "c.ruiz@empresa.com"]
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "López",
+    "dni": "34567890C",
+    "telefonos": ["699887766"],
+    "correos": ["ana.lopez@example.com"]
+  },
+  {
+    "nombre": "Pedro",
+    "apellido": "García",
+    "dni": "45678901D",
+    "telefonos": ["612334455", "698112233"],
+    "correos": ["pedro.garcia@example.com", "pgarcia@correo.com"]
+  },
+  {
+    "nombre": "María",
+    "apellido": "Fernández",
+    "dni": "56789012E",
+    "telefonos": ["633445566"],
+    "correos": ["maria.fernandez@example.com"]
+  },
+  {
+    "nombre": "Javier",
+    "apellido": "Santos",
+    "dni": "67890123F",
+    "telefonos": ["644556677", "677889900"],
+    "correos": ["javier.santos@example.com"]
+  },
+  {
+    "nombre": "Lucía",
+    "apellido": "Martínez",
+    "dni": "78901234G",
+    "telefonos": ["655667788"],
+    "correos": ["lucia.martinez@example.com", "lucia.martinez@work.com"]
+  },
+  {
+    "nombre": "David",
+    "apellido": "Torres",
+    "dni": "89012345H",
+    "telefonos": ["677889900"],
+    "correos": ["david.torres@example.com"]
+  },
+  {
+    "nombre": "Elena",
+    "apellido": "Castro",
+    "dni": "90123456I",
+    "telefonos": ["699001122", "688223344"],
+    "correos": ["elena.castro@example.com", "elena.castro@uni.es"]
+  },
+  {
+    "nombre": "Miguel",
+    "apellido": "Romero",
+    "dni": "01234567J",
+    "telefonos": ["600334455"],
+    "correos": ["miguel.romero@example.com"]
+  },
+  {
+    "nombre": "Isabel",
+    "apellido": "Navarro",
+    "dni": "11122334K",
+    "telefonos": ["633223344", "633556677"],
+    "correos": ["isabel.navarro@example.com"]
+  },
+  {
+    "nombre": "Raúl",
+    "apellido": "Vega",
+    "dni": "22233445L",
+    "telefonos": ["644112233"],
+    "correos": ["raul.vega@example.com", "r.vega@empresa.com"]
+  },
+  {
+    "nombre": "Patricia",
+    "apellido": "Campos",
+    "dni": "33344556M",
+    "telefonos": ["611778899"],
+    "correos": ["patricia.campos@example.com"]
+  },
+  {
+    "nombre": "Andrés",
+    "apellido": "Moreno",
+    "dni": "44455667N",
+    "telefonos": ["622334455", "688990011"],
+    "correos": ["andres.moreno@example.com"]
+  },
+  {
+    "nombre": "Beatriz",
+    "apellido": "Gómez",
+    "dni": "55566778O",
+    "telefonos": ["633445566"],
+    "correos": ["beatriz.gomez@example.com", "b.gomez@correo.com"]
+  },
+  {
+    "nombre": "Sergio",
+    "apellido": "Delgado",
+    "dni": "66677889P",
+    "telefonos": ["644556677"],
+    "correos": ["sergio.delgado@example.com"]
+  },
+  {
+    "nombre": "Natalia",
+    "apellido": "Serrano",
+    "dni": "77788990Q",
+    "telefonos": ["655667788", "699334455"],
+    "correos": ["natalia.serrano@example.com"]
+  },
+  {
+    "nombre": "Alberto",
+    "apellido": "Blanco",
+    "dni": "88899001R",
+    "telefonos": ["677889900"],
+    "correos": ["alberto.blanco@example.com", "a.blanco@empresa.com"]
+  },
+  {
+    "nombre": "Cristina",
+    "apellido": "Rey",
+    "dni": "99900112S",
+    "telefonos": ["600111222"],
+    "correos": ["cristina.rey@example.com"]
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Luna",
+    "dni": "10111213T",
+    "telefonos": ["611223344", "611556677"],
+    "correos": ["jorge.luna@example.com", "j.luna@correo.com"]
+  }
+]
