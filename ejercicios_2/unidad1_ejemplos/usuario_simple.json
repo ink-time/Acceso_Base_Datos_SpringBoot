@@ -1,7 +1,0 @@
-{
-	"nombre": "Elena",
-	"email": "elena@ejemplo.com",
-	"edad": 28,
-	"activo": false,
-	"hobbies": ["leer", "senderismo"]
-}

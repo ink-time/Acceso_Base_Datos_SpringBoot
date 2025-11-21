@@ -1,3 +1,0 @@
-¡Hola, mundo desde Acceso a Datos!
-Esta es la segunda línea del fichero de texto.
-Utilizando BufferedWriter para una escritura eficiente.
