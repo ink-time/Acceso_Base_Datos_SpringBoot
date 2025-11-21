@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book_catalog>
+        
+    <book id="bk101">
+                
+        <title>New title</title>
+                
+        <author>Brandon Sanderson</author>
+                
+        <genre>Epic Fantasy</genre>
+                
+        <series>The Stormlight Archive</series>
+                
+        <series_book_number>1</series_book_number>
+                
+        <publication_year>2010</publication_year>
+                
+        <setting>Roshar (Cosmere)</setting>
+            
+    </book>
+        
+    <book id="bk102">
+                
+        <title>Mistborn: The Final Empire</title>
+                
+        <author>Brandon Sanderson</author>
+                
+        <genre>Epic Fantasy</genre>
+                
+        <series>Mistborn Era 1</series>
+                
+        <series_book_number>1</series_book_number>
+                
+        <publication_year>2006</publication_year>
+                
+        <setting>Scadrial (Cosmere)</setting>
+            
+    </book>
+        
+    <book id="bk103">
+                
+        <title>The Fellowship of the Ring</title>
+                
+        <author>J.R.R. Tolkien</author>
+                
+        <genre>High Fantasy</genre>
+                
+        <series>The Lord of the Rings</series>
+                
+        <series_book_number>2</series_book_number>
+                
+        <publication_year>1954</publication_year>
+                
+        <setting>Middle-earth</setting>
+            
+    </book>
+        
+    <book id="bk104">
+                
+        <title>A Game of Thrones</title>
+                
+        <author>George R.R. Martin</author>
+                
+        <genre>Epic Fantasy</genre>
+                
+        <series>A Song of Ice and Fire</series>
+                
+        <series_book_number>3</series_book_number>
+                
+        <publication_year>1996</publication_year>
+                
+        <setting>Westeros and Essos</setting>
+            
+    </book>
+        
+    <book id="bk105">
+                
+        <title>The Name of the Wind</title>
+                
+        <author>Patrick Rothfuss</author>
+                
+        <genre>High Fantasy</genre>
+                
+        <series>The Kingkiller Chronicle</series>
+                
+        <series_book_number>2</series_book_number>
+                
+        <publication_year>2007</publication_year>
+                
+        <setting>Temerant</setting>
+            
+    </book>
+        
+    <book id="bk106">
+                
+        <title>The Eye of the World</title>
+                
+        <author>Robert Jordan</author>
+                
+        <genre>Epic Fantasy</genre>
+                
+        <series>The Wheel of Time</series>
+                
+        <series_book_number>9</series_book_number>
+                
+        <publication_year>1990</publication_year>
+                
+        <setting>The Westlands</setting>
+            
+    </book>
+        
+    <book id="bk107">
+                
+        <title>Assassin's Apprentice</title>
+                
+        <author>Robin Hobb</author>
+                
+        <genre>Epic Fantasy</genre>
+                
+        <series>The Farseer Trilogy</series>
+                
+        <series_book_number>1</series_book_number>
+                
+        <publication_year>1995</publication_year>
+                
+        <setting>The Six Duchies</setting>
+            
+    </book>
+        
+    <book id="bk108">
+                
+        <title>American Gods</title>
+                
+        <author>Neil Gaiman</author>
+                
+        <genre>Urban Fantasy</genre>
+                
+        <series>N/A</series>
+                
+        <series_book_number>N/A</series_book_number>
+                
+        <publication_year>2001</publication_year>
+                
+        <setting>United States</setting>
+            
+    </book>
+        
+    <book id="bk109">
+                
+        <title>Jonathan Strange &amp; Mr Norrell</title>
+                
+        <author>Susanna Clarke</author>
+                
+        <genre>Historical Fantasy</genre>
+                
+        <series>N/A</series>
+                
+        <series_book_number>N/A</series_book_number>
+                
+        <publication_year>2004</publication_year>
+                
+        <setting>Regency England</setting>
+            
+    </book>
+        
+    <book id="bk110">
+                
+        <title>The Fifth Season</title>
+                
+        <author>N.K. Jemisin</author>
+                
+        <genre>Speculative Fiction</genre>
+                
+        <series>The Broken Earth</series>
+                
+        <series_book_number>1</series_book_number>
+                
+        <publication_year>2015</publication_year>
+                
+        <setting>Stillness</setting>
+            
+    </book>
+        
+    <book id="bk111">
+                
+        <title>1984</title>
+                
+        <author>George Orwell</author>
+                
+        <genre>Dystopian Fiction</genre>
+                
+        <publication_year>1949</publication_year>
+                
+        <pages>328</pages>
+                
+        <available>true</available>
+                
+        <publisher>Secker &amp; Warburg</publisher>
+            
+    </book>
+        
+    <book id="bk112">
+                
+        <title>The Great Gatsby</title>
+                
+        <author>F. Scott Fitzgerald</author>
+                
+        <genre>Tragedy</genre>
+                
+        <publication_year>1925</publication_year>
+                
+        <pages>180</pages>
+                
+        <available>true</available>
+                
+        <publisher>Scribner</publisher>
+            
+    </book>
+        
+    <book id="bk113">
+                
+        <title>The Martian</title>
+                
+        <author>Andy Weir</author>
+                
+        <genre>Science Fiction</genre>
+                
+        <publication_year>2014</publication_year>
+                
+        <pages>384</pages>
+                
+        <available>false</available>
+                
+        <publisher>Crown</publisher>
+                
+        <loan_due_date>2026-01-15</loan_due_date>
+            
+    </book>
+    
+</book_catalog>
